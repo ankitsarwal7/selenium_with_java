@@ -1,9 +1,9 @@
+
 public class HelloWorld {
+
     public static void main(String[] args) {
-        System.out.println("Java is working!");
-                System.out.println("Java1 is working!");
-
-        System.out.println("this day1");
-
+        System.out.println("Hello, Ankit!");
+        System.out.println("I am learning Java for Selenium.");
+        System.out.println("Day 1 of my automation journey!");
     }
 }
